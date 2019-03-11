@@ -1,4 +1,5 @@
 These are arabian numbers.
+Added this line to test git stash.
 
 1
 2
